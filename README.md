@@ -1,3 +1,7 @@
+## Claude Code API Keys URL
+
+https://platform.claude.com/settings/workspaces
+
 ## UV:
 
 ## Install UV

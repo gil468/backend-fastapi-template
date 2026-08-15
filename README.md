@@ -2,6 +2,14 @@
 
 https://platform.claude.com/settings/workspaces
 
+## GIT
+
+1. Open your browser and navigate to your **Template Repository** on GitHub.
+2. Click the green **"Use this template"** button in the top right.
+3. Select **"Create a new repository"**.
+4. Name your new repository appropriately (e.g., `<company-name>-interview-task` or `acme-task`).
+5. Choose visibility (Public/Private as needed) and click **Create repository from template**.
+
 ## UV:
 
 ## Install UV
